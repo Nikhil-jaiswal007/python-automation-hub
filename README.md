@@ -38,7 +38,7 @@ Whether you're a beginner looking for your first project or a developer wanting 
 - Data export tools
 
 ### 📱 Social Media Tools
-- Hashtag generator
+- [Hashtag Generator](./social-media/hashtag-generator) - Generate trending hashtags for your posts automatically. ✅
 - Caption helper
 - Engagement analytics
 - Content planner tools
