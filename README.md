@@ -26,13 +26,13 @@ Whether you're a beginner looking for your first project or a developer wanting 
 ## 📂 Project Categories
 
 ### 📁 File Tools
-- File Organizer - Automatically organize your messy folders by file type.✅
+- [File Organizer](./file-tools/file-organizer) - Automatically organize your messy folders by file type. ✅
 - Organize folders automatically
 - Delete duplicate files
 - Convert file formats
 
 ### 🌐 Web Scraping
-- Price Tracker - Extract titles and data from any website using BeautifulSoup. ✅
+- [Price Tracker](./web-scraping/price-tracker) - Extract titles and data from any website using BeautifulSoup. ✅
 - News headline scraper
 - Job listing collector
 - Data export tools
