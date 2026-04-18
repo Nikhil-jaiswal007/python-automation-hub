@@ -41,12 +41,15 @@
 ```bash
 git clone [https://github.com/emineugurlu/python-automation-hub.git](https://github.com/emineugurlu/python-automation-hub.git)
 cd python-automation-hub 
+```
 
 ### 2. Run a script
+```bash
 Go to the specific tool folder and install requirements:
 cd file-tools/file-organizer
 pip install -r requirements.txt
 python organizer.py
+``` 
 
 🤝 Contributing
 We love your contributions! Whether it's a bug fix or a new script idea, please check our CONTRIBUTING.md to get started.
