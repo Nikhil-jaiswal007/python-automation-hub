@@ -35,7 +35,6 @@
 | 📊 **Data Tools** | [JSON Cleaner](./data-tools/json-cleaner) | Removes null and empty values from JSON files. | ✅ Ready |
 | | [CSV to JSON](./data-tools/csv-converter) | Converts data formats for web apps. | ✅ Ready |
 | 🐍 **Beginner** | [Password Gen](./beginner-projects/password-gen) | Generates secure, random passwords. | ✅ Ready |
-
 ---
 
 ## 🚀 Getting Started
