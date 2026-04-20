@@ -7,7 +7,9 @@ def organize_folder(target_path):
         'Images': ['.jpg', '.jpeg', '.png', '.gif'],
         'Documents': ['.pdf', '.docx', '.txt', '.xlsx'],
         'Videos': ['.mp4', '.mkv', '.mov'],
-        'Archives': ['.zip', '.rar', '.7z']
+        'Archives': ['.zip', '.rar', '.7z'],
+        'Music': ['.mp3', '.wav', '.aac', '.flac', '.ogg'],    
+        'Design': ['.psd', '.ai', '.eps', '.sketch', '.fig'] 
     }
 
     try:
